@@ -12,9 +12,7 @@ This guide walks you through installing **Docker Desktop on Windows** and deploy
 
 ## Step 1: Download Docker Desktop
 
-1. Go to: https://www.docker.com/products/docker-desktop/
-2. Click **Download for Windows**
-3. Download `Docker Desktop Installer.exe`
+1. Download the installer [Docker Desktop for Windows - x86_64](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64)
 
 ## Step 2: Install Docker Desktop
 
@@ -121,4 +119,4 @@ docker ps -a
 
 ## Conclusion
 
-You have successfully.
+You have successfully. [For latest information refer official site](https://docs.docker.com/desktop/setup/install/windows-install/)
