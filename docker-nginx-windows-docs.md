@@ -119,4 +119,10 @@ docker ps -a
 
 ## Conclusion
 
-You have successfully. [For latest information refer official site](https://docs.docker.com/desktop/setup/install/windows-install/)
+You have successfully.
+
+- Installed Docker Desktop on Windows
+- Pulled the Nginx image
+- Deployed and accessed Nginx using Docker
+
+[For latest information refer official site](https://docs.docker.com/desktop/setup/install/windows-install/)
